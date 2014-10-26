@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "Getting and Cleaning Data: Project"
 author: "Fraydel"
