@@ -70,7 +70,9 @@ This are some directions from my notes/comments during the realization of the ex
 
 4. Assignment 4: Change column variable names to make them more descriptive.
       * Naming conventions: I used [this article](http://www.lunduniversity.lu.se/lup/publication/3492317) by Rasmus Bååth (2012) to get some info on the state of naming conventions.
+      
       * Changes I made to variable names:
+
             * Change initial f to 'freq' and t to 'time' because I think they are easier to spot that way.
             
             * Drop the '()' that appear at the end of mean and std strings, because I think they do 
