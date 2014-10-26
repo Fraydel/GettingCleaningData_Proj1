@@ -17,7 +17,7 @@ The rest of the variable description follow this definitions, as extracted and a
 
 * Subsequently, the body linear acceleration and angular velocity were derived in time to obtain Jerk signals (time_Body_Acc_Jerk_XYZ and time_Body_Gyro_Jerk_XYZ). Also the magnitude of these three-dimensional signals were calculated using the Euclidean norm (time_Body_Acc_Mag, time_Gravity_Acc_Mag, time_Body_Acc_Jerk_Mag, time_Body_Gyro_Mag, time_Body_Gyro_Jerk_Mag). 
 
-Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing freq_Body_Acc_XYZ, freq_Body_Acc_Jerk_XYZ, freq_Body_Gyro_XYZ, freq_Body_Acc_Jerk_Mag, freq_Body_Gyro_Mag, freq_Body_Gyro_Jerk_Mag. (Note the 'freq' to indicate frequency domain signals). 
+* Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing freq_Body_Acc_XYZ, freq_Body_Acc_Jerk_XYZ, freq_Body_Gyro_XYZ, freq_Body_Acc_Jerk_Mag, freq_Body_Gyro_Mag, freq_Body_Gyro_Jerk_Mag. (Note the 'freq' to indicate frequency domain signals). 
 
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
