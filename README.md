@@ -72,10 +72,14 @@ This are some directions from my notes/comments during the realization of the ex
       * Naming conventions: I used [this article](http://www.lunduniversity.lu.se/lup/publication/3492317) by Rasmus Bååth (2012) to get some info on the state of naming conventions.
       * Changes I made to variable names:
             * Change initial f to 'freq' and t to 'time' because I think they are easier to spot that way.
+            
             * Drop the '()' that appear at the end of mean and std strings, because I think they do not add useful information to the variable name.
+            
             * Erase some 'Body' strings that seemed to be duplicated. 
+            
             * Make variable names underscore separated, because I think some spacing
             between characters makes the names more readable.
+
             * Lowercase, because once you have each abreviation separated by underscore,
             you do not need capital letters.
 
