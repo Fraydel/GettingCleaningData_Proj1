@@ -83,7 +83,7 @@ This are some directions from my notes/comments during the realization of the ex
             * Make variable names underscore separated, because I think some spacing
                between characters makes the names more readable.
 
-            * Lowercase, because once you have each abreviation separated by underscore,
+            * Lowercase, because once you have each abbreviation separated by underscore,
                you do not need capital letters.
 
 5. Assingment 5: Create tidy data set with the average of each variable for each activity and participant.
